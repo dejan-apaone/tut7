@@ -1,0 +1,29 @@
+#puzzle {
+  section {
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 32px;
+    h2 {
+      margin: 0;
+    }
+  }
+  .setup {
+    h2 {
+      margin-bottom: 24px;
+    }
+    background-color: #ccc;
+    border: 1px solid #2c2c2c;
+
+  }
+  .game {
+    border: 1px solid red;
+    background-color: rgba(238, 150, 198, 0.91);
+  }
+  .solved {
+    border: 1px solid #006900;
+    background-color: rgba(24, 195, 19, 0.76);
+  }
+  .name {
+    font-weight: bold;
+  }
+}
