@@ -2,3 +2,5 @@
 /app
 /src
 *.log*
+.idea/
+**/.idea/

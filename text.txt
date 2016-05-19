@@ -12,4 +12,4 @@ https://github.com/mschwarzmueller/angular-2-beta-boilerplate
 
 GLEDAO:
 C:\Users\Apa5\Downloads\Udemy - The Complete Guide to Angular 2\02 Components  Templates
-    009 First Project - Puzzle App Part 1
+    011 First Project - Puzzle App Part 3
