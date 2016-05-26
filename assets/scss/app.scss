@@ -1,4 +1,5 @@
 @import "modul/_puzzle.scss";
+@import "modul/_shoping-list.scss";
 
 body {
   padding: 32px;
@@ -6,21 +7,31 @@ body {
   font-family: "Roboto", Arial, sans-serif;
   font-size: 14px;
 }
-.red{
+
+.red {
   color: red;
 }
 
-.parent{
-  padding:10px 20px 20px 20px;
+.parent {
+  padding: 10px 20px 20px 20px;
   border-radius: 20px;
   border: 1px solid #ccc;
   margin-bottom: 30px;
   background-color: #dedede;
 }
-.Child{
-  padding:10px 20px;
+
+.Child {
+  padding: 10px 20px;
   border-radius: 15px;
   border: 1px solid #ccc;
 
   background-color: #fff;
+}
+
+.directive {
+  border-bottom-color: #ccc;
+  background-color: #F6F6F6;
+  border-radius: 15px;
+  padding: 15px 30px;
+  margin-bottom: 30px;
 }

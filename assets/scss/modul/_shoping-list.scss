@@ -1,0 +1,35 @@
+header{
+  width: 800px;
+  margin: 0 auto;
+  background-color: #0f7595;
+  border: 1px solid #0f7595;
+  color:#fff;
+  padding: 30px;
+  .brand{
+    font-size: 18px;
+  }
+}
+.body{
+  width: 800px;
+  padding: 30px;
+  margin: 0 auto;
+  margin-bottom: 30px;
+  background-color: #F6F5F5;
+  border: 1px solid #ccc;
+  section{
+   padding: 30px;
+    border-bottom: 3px solid #155A70;
+  }
+}
+
+.list{
+  li{
+    &:hover{
+      color: red;
+    }
+  }
+}
+button.red{
+  background-color: red;
+  color:#fff;
+}

@@ -13,3 +13,18 @@ https://github.com/mschwarzmueller/angular-2-beta-boilerplate
 GLEDAO:
 C:\Users\Apa5\Downloads\Udemy - The Complete Guide to Angular 2\03 Databinding
     008 Databinding Summary
+
+
+C:\Users\Apa5\Downloads\Udemy - The Complete Guide to Angular 2\04 Directives
+
+custom attribute directives
+
+attribute-directives.component.ts
+structural-directives.component.ts
+
+route-component.ts
+
+http://jsonplaceholder.typicode.com/
+
+C:\Users\Apa5\Downloads\Udemy - The Complete Guide to Angular 2\04 Directives
+
